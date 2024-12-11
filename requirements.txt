@@ -27,3 +27,5 @@ mnemonic==0.21
 qrcode==7.4.2
 blinker==1.8.2
 flask===3.0.3
+tgcrypto==1.2.0
+apt-get update && apt-get install git
